@@ -11,7 +11,7 @@ let carro = {
 let pessoa = {
     nome: "Rafael Freitas",
     AnoNascimento: 1989,
-    cpf: "02288692502",
+    cpf: "022.886.925-02",
     cidade: "Salvador",
     estado: "Ba",
     lodradouro: "Rua marcio Batista, 104, Stiep"   
